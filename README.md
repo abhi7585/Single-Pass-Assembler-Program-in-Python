@@ -55,4 +55,4 @@ Relative address			Instruction		Machine code
 7					HALT			20
 ```
 ASSUMPTIONS:
-Let the Mnemonics of the instructions ADD R, SUB R, MUL R, DIV R, AND R, OR R be as A R, S R, M R, D R, AN R, O R. """
+Let the Mnemonics of the instructions ADD R, SUB R, MUL R, DIV R, AND R, OR R be as A R, S R, M R, D R, AN R, O R. 
