@@ -39,6 +39,7 @@ Input assembly language program:
 
 Consider very simple ALP with only 5 :-
 ```
+MOV R
 ADD R 
 SUB 30
 STORE 1000 
